@@ -5,11 +5,9 @@ Welcome to my repository! Here, you'll find a comprehensive collection of C++ so
 ## Table of Contents
 
 - [About](#about)
-- [Structure](#structure)
 - [Algorithms Covered](#algorithms-covered)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
